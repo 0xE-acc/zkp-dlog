@@ -1,6 +1,6 @@
 # zkp-dlog
 
-an example of a non-interactive zero knowledge proof
+an example of an interactive zero knowledge proof with discrete logarithm
 
 ## Prerequisites
 
