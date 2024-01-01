@@ -1,6 +1,6 @@
 # zkp-dlog
 
-Description of your project.
+an example of a non-interactive zero knowledge proof
 
 ## Prerequisites
 
